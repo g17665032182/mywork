@@ -1,0 +1,8 @@
+[
+ {
+ "title":"Set Theory",
+ "detail":"Design & Direction",
+ "massage":"Set Theory is a clean, responsive WordPress blogging theme. Whether is text, photography or video, with Set Theory you can package your content in a sophisticated minimalist manner.",
+ "src":["img/settheory/01-set.jpg","img/settheory/02-set.jpg","img/settheory/03-set.jpg","img/settheory/04-set.jpg","img/settheory/05-set.jpg","img/settheory/06-set.jpg","img/settheory/07-set.jpg","img/settheory/08-set.jpg"]
+ }
+]

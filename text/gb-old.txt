@@ -1,0 +1,8 @@
+[
+ {
+ "title":"Old Portfolio / 2014",
+ "detail":"Old version of this website",
+ "massage":"Website for a boutique online marketing firm that works with some of the world's most innovative web & mobile technology companies.",
+ "src":["img/gb-old/01-gb.jpg","img/gb-old/02-gb.jpg","img/gb-old/03-gb.png","img/gb-old/04-gb.jpg","img/gb-old/05-gb.jpg","img/gb-old/06-gb.jpg"]
+ }
+]

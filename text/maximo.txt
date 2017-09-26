@@ -1,0 +1,8 @@
+[
+ {
+ "title":"Lady Maximo",
+ "detail":"Design, Development",
+ "massage":"Portfolio website for Lady Maximo, fashion stylist based in Southern California.",
+ "src":["img/maximo/01-maximo.jpg","img/maximo/02-maximo.png","img/maximo/03-maximo.jpg","img/maximo/04-maximo.jpg","img/maximo/05-maximo.jpg","img/maximo/06-maximo.jpg","img/maximo/07-maximo.jpg","img/maximo/08-maximo.jpg","img/maximo/09-maximo.png"]
+ }
+]

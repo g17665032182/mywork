@@ -1,0 +1,8 @@
+[
+ {
+ "title":"Paul Evans",
+ "detail":"Design",
+ "massage":"Paul Evans is a New York City-based menswear brand, best known for its collection of luxury footwear.",
+ "src":["img/paulevans/01-paulevans.jpg","img/paulevans/02-paulevans.jpg","img/paulevans/03-paulevans.jpg","img/paulevans/04-paulevans.jpg","img/paulevans/05-paulevans.jpg","img/paulevans/06-paulevans.jpg"]
+ }
+]

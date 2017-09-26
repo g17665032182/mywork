@@ -1,0 +1,8 @@
+[
+ {
+ "title":"Crush Campaigns",
+ "detail":"Design & Direction",
+ "massage":"Website for a boutique online marketing firm that works with some of the world's most innovative web & mobile technology companies.",
+ "src":["img/crush/01-crush.jpg","img/crush/02-crush.jpg","img/crush/03-crush.jpg","img/crush/04-crush.jpg"]
+ }
+]

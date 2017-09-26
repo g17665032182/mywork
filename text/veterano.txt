@@ -1,0 +1,8 @@
+[
+ {
+ "title":"Sir Veterano",
+ "detail":"Design & Direction",
+ "massage":"Promo page for 'Good Form' album by Sir Veterano. The site is responsive and features a custom music player.",
+ "src":["img/veterano/01-veterano.jpg","img/veterano/02-veterano.png"]
+ }
+]

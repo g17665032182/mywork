@@ -1,0 +1,8 @@
+[
+ {
+ "title":"Department Store",
+ "detail":"Design & Direction",
+ "massage":"1.The very stylish online shop curated by ELLE editors. I worked closely with the in-house team from the very beginning and I was involved in every aspect of the design and build of the website, defining the look & feel for a premium user experience.",
+ "src":["img/ds/01-ds.jpg","img/ds/02-ds.jpg","img/ds/03-ds.jpg","img/ds/04-ds.jpg","img/ds/ds-mobile-01.jpg"]
+ }
+]

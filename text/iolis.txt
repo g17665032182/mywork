@@ -1,0 +1,8 @@
+[
+ {
+ "title":"Iolanda Moraru",
+ "detail":"Design & Build",
+ "massage":"Minimalist Blog for psychologist Iolanda Moraru, with a focus on readability across devices and elegant typography to accompany her writings, which include articles on psychology, personal musings and poetry.",
+ "src":["img/iolis/iolis1.jpg","img/iolis/iolis-mobile1.png"]
+ }
+]

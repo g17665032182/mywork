@@ -1,0 +1,162 @@
+body {
+	background-color: #EEEEEE;
+}
+body::selection{
+	background-color: transparent !important;
+}
+
+header {
+	position: fixed;
+	margin-left: 7%;
+	z-index: 99999;
+}
+
+#slt {
+	height: 90vh;
+	overflow: auto;
+	background-color: #EEEEEE;
+	padding: 100px 0;
+	position: relative;
+	display: none;
+}
+
+#dhziti {
+	position: fixed;
+	top: 0;
+	z-index: 1;
+	background-color: transparent !important; 
+	display: none;
+}
+#dhziti>h2{
+	color: rgba(255, 255, 255, 0.7);
+	background-color: rgba(0,0,0,0.3);
+}
+#slt>div {
+	background-color: #EEEEEE;
+	border: none;
+	cursor: pointer;
+}
+
+#slt>div>div {
+	background-color: #EEEEEE;
+	border: none;
+	font-size: 20px;
+}
+
+#work {
+	cursor: pointer;
+}
+
+#wrap {
+	height: 100vh;
+	background-color: #222222;
+}
+#viewall{
+	cursor: pointer;
+}
+.content {
+	padding: 10vh;
+	position: relative;
+}
+
+.content>div {
+	position: absolute;
+}
+
+.content>div>h2 {
+	font-size: 200px;
+	z-index: 1;
+}
+
+#c-h1 {
+	color: #EEEEEE;
+	top: 140%;
+	right: 0;
+	z-index: 3;
+}
+
+#c-h1>a {
+	display: block;
+	width: 280px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	border: 1px solid white;
+	font-size: 13px;
+	color: white;
+	text-decoration: none;
+}
+
+#banner {
+	background-color: #222222;
+	padding: 50px 20px;
+}
+
+#banner>hr {
+	outline: none;
+	border: 1px solid rgba(255, 255, 255, 0.5);
+	margin-bottom: 80px;
+}
+
+#banner>h2 {
+	color: rgba(255, 255, 255, 0.8)
+}
+
+#banner>h2>span {
+	font-size: 17px;
+}
+
+#banner h3 {
+	font-size: 40px;
+	color: rgba(255, 255, 255, 0.5);
+	margin-bottom: 0px;
+}
+
+#banner h4 {
+	margin-top: 40%;
+	font-size: 30px;
+	color: rgba(255, 255, 255, 0.8);
+}
+
+.main {
+	position: relative;
+	overflow: hidden;
+	padding: 50px;
+}
+
+canvas {
+	background-color: #EEEEEE;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+
+.main p {
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.main h2 {
+	-position: absolute;
+	-top: 70%;
+	-left: 20%;
+	font-size: 48px;
+	font-weight: 900;
+}
+
+#Specialities {
+	margin-top: 50%;
+	-position: absolute;
+	-top: 200px;
+	-left: 20%;
+}
+
+.main li {
+	list-style: none;
+}
+
+#footer {
+	background-color: white;
+	padding: 150px 20px;
+}

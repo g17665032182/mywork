@@ -1,0 +1,8 @@
+[
+ {
+ "title":"The Fresh Yard",
+ "detail":"Shop Design",
+ "massage":"Swanky streetwear boutique carrying top-shelf apparel brands & accessories for men & women.",
+ "src":["img/freshyard/01-fy.jpg","img/freshyard/02-fy.jpg","img/freshyard/03-fy.jpg","img/freshyard/0-fy.jpg"]
+ }
+]

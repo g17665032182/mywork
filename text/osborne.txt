@@ -1,0 +1,8 @@
+[
+ {
+ "title":"Osborne Richardson",
+ "detail":"Design, Development",
+ "massage":"Website design for recruitment consultancy Osborne Richardson — deisgned for London agency Just Recruitment Websites.",
+ "src":["img/osborne/01-osborne.jpg","img/osborne/03-osborne.jpg","img/osborne/blank.png"]
+ }
+]

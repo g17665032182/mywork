@@ -1,0 +1,8 @@
+[
+ {
+ "title":"Logos",
+ "detail":"A small selection of recent brand marks.",
+ "massage":"Website for a boutique online marketing firm that works with some of the world's most innovative web & mobile technology companies.",
+ "src":["img/logos/01-logos.png","img/logos/02-logos.png","img/logos/03-logos.png","img/logos/04-logos.png","img/logos/05-logos.png","img/logos/06-logos.png","img/logos/07-logos.png","img/logos/ds-logo2.png","img/logos/fclogo.png","img/logos/logo-ds-1.png"]
+ }
+]

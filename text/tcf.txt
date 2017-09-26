@@ -1,0 +1,8 @@
+[
+ {
+ "title":"The Creative Firm",
+ "detail":"Design & Direction",
+ "massage":"The Creative Firm is a full-service multimedia design & merchandise company located in San Diego, CA. I was responsible for designing their new identity, promotional material and responsive website.",
+ "src":["img/tcf/01-tcf.jpg","img/tcf/02-tcf.jpg","img/tcf/03-tcf.jpg","img/tcf/04-tcf.jpg","img/tcf/05-tcf.jpg","img/tcf/06-tcf.png","img/tcf/07-tcf.png"]
+ }
+]

@@ -1,0 +1,14 @@
+$(function(){
+	$('#work1').click(function(){
+		$('#slt').stop().slideToggle(600)
+		$('#dhziti').stop().fadeToggle(600)
+	})	
+	$('#work2').click(function(){
+		$('#slt').stop().slideToggle(600)
+		$('#dhziti').stop().fadeToggle(600)
+	})
+	$('#viewall').click(function(){
+		$('#slt').stop().slideToggle(600)
+		$('#dhziti').stop().fadeToggle(600)
+	})
+})
